@@ -1,0 +1,22 @@
+{
+    "params":
+    {"local_server":"True",
+    "local_uri":"mysql://root:@localhost/coding armagedon",
+    "prod_uri":"mysql://root:@localhost/coding armagedon",
+    "faceb_url":"facebook.com/codingarmagedon",
+    "twit_url":"twitter.com",
+    "gith_url":"github.com",
+    "blogname":"coding armagedon!",
+    "tag_line":"A Blog loved by metal heads :)",
+    "emailid":"padletehai@gmail.com",
+    "emailpassword":"password",
+    "about_text":"hi my name is harry and he is a programmer nad he is a good boy",
+    "noof_posts":2,
+    "admin_pass":"adminpass",
+    "adminid":"adminid",
+    "upload_location":"I:\\bkt ye kya hai nam bhi mat rakho iska matlab\\static"
+
+
+
+    }
+}

@@ -1,0 +1,12 @@
+ke vo /dashboard ke if me posts ka kya kam aur params ka bhe , nahi params ka to kam hai poost ka nahi pta
+rquest .form.get kya hai?  aur form kya hai , acha form ka namhai kya usme se ? 
+
+mere biwi chod ke bhag gaye me kya kru...
+
+db.session.add (post)
+db.commit , ye samaj to a rha ahi fir bhi emk bar puch lunga
+aur ye session kya karta hai , matlab samj ta to hu mai par fir bhe 
+
+action =edit/{{post.sno}}
+
+app.config
