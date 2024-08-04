@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 03, 2024 at 09:25 PM
+-- Generation Time: Aug 04, 2024 at 09:45 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.0.30
 
@@ -80,11 +80,11 @@ CREATE TABLE `posts` (
 --
 
 INSERT INTO `posts` (`sno`, `title`, `content`, `date`, `slug`, `img_file`, `tagline`) VALUES
-(1, 'mere biwi chod ke bhag gaye me kya karu:(', 'ye to ho gaye anhone mere pass to koi hoe nahi ghar baith muthi maru jaise dhoni , mahi mar rha hai', '2024-07-25 15:05:56', 'first-post', 'contact-bg.jpg', 'first post'),
-(2, 'me landu chudodi a gya hu', 'muthiyon ke upar lado ke par dekho ke ladu chudiyan apne ay ya bade bade jhate aur lund hai chota sa lund par hai condom aur condom mota sa ,muth marne me iska dekho koi thikana', '2024-07-25 22:59:54', 'second-post', 'about-bg.jpg', 'this is the coolest post ever'),
-(3, 'sbara', 'sjhbsuhe8tuhegses', '2024-07-26 11:49:56', 'third-post', 'contact-bg.jpg', 'etstseen mast tagline'),
-(4, 'getiele tietit le', 'conrenc content content conetet welll tis ti sht econtecnthat tyou watned for oall this time now you get iy tos be grateful you btc', '2024-07-26 11:51:14', 'fourth-post', 'contact-bg.jpg', 'taghdi wale tagline'),
-(6, 'i come from uterus and use computersus', 'there n context to this wahts o ever at alll and then lets esee e what couild be done and thne we could al do some other stuff and thenn we could also do many ther stuff', '2024-07-26 11:54:54', 'sixth-post', 'contact-bg.jpg', 'bhai kya he tagline likhte ho masallah\r\n');
+(1, 'mere biwi chod ke bhag gaye me kya karu:(', 'ye to ho gaye anhone mere pass to koi hoe nahi ghar baith muthi maru jaise dhoni , mahi mar rha hai', '2024-07-25 15:05:56', 'first-post', 'hardick.jpeg', 'ab kya karu :('),
+(2, 'me landu chudodi a gya hu', 'muthiyon ke upar lado ke par dekho ke ladu chudiyan apne ay ya bade bade jhate aur lund hai chota sa lund par hai condom aur condom mota sa ,muth marne me iska dekho koi thikana', '2024-07-25 22:59:54', 'second-post', 'ninja.jpeg', 'me hu ek randa'),
+(3, 'jay shah ..', 'Jay shah के दूध का उपयोग दुनिया भर में विभिन्न प्रकार के खाद्य पदार्थ और घरेलू सामान के उत्पादन के लिए किया जाता है। jay shah के दूध का उपयोग दही, मट्ठा, पनीर, घी, मक्खन, विभिन्न प्रकार की मिठाइयाँ, खोया, पनीर आदि जैसे उत्पादों की एक पौष्टिक एवं विशाल खाद्य श्रृंखला के निर्माण के लिए किया जाता है। पाचन संबंधी समस्याओं से परेशान रहने वाले रोगी भी jay shah के दूध का सेवन कर सकते हैं क्योंकि इसे बेहद सुपाच्य खाद्य पदार्थ माना जाता है। jay shah का दूध हमें शारीरिक रूप से मजबूत और पोषित करता है। यह तक कि यह हमें कई तरह की बीमारियों और संक्रमणों से भी बचाता है। यह रोग के खिलाफ हमारी रोग प्रतिरोधक क्षमता को बढ़ाने में सहायक है। लोग jay shah के गोबर का उपयोग वास्तव में एक समृद्ध उर्वरक के रूप में करते हैं। यह ईंधन और बायोगैस का भी एक बेहतरीन उत्पादक है। jay shah के गोबर का उपयोग कीट विकर्षक के रूप में भी किया जाता है। लोग इसका उपयोग भवन निर्माण सामग्री और कागज बनाने के लिए कच्चे माल के रूप में भी करते हैं। आयुर्वेद में गौमूत्र का उपयोग भी कई तरह की बीमारियों के उपचार में किया जाता रहा है।', '2024-07-26 11:49:56', 'third-post', 'jayshah.jpeg', 'jay shah dudh kha se nikalta hai?'),
+(4, 'maharaj ji pravchan', 'dudh to thumari behen bhi dete hai ,to maa kyu pete ho?', '2024-07-26 11:51:14', 'fourth-post', 'maharaj.jpeg', 'maharaj ji op'),
+(6, 'shayri ', 'Your eyes as deep as the Pacific Ocean,\n\nYour hair as bright as gold,\n\nYour face shines like a diamond,\n\nYour heart is very pure.\n\n\nYou smile like a baby,\n\nYou laugh like a child,\n\nYou are as wise as an old man,\n\nBut look as young as if you were born yesterday.\n\n\nYour voice is as sweet as honey,\n\nYour personality very bold,\n\nYou are the one thing,\n\nOne thing I’m living for.\n\nOf all the things I thought I would do,\n\nWriting a poem was the last,\n\nI’ve never written anything before,\n\nThis is not one of my hidden talents,\n\nThis right here is just love for you.\n\nNo there’s no rhyming here,\n\nBut who gives a shit,\n\nThe actual point is,\n\nThat I’m so much in love with you.', '2024-07-26 11:54:54', 'sixth-post', 'skull.png', 'by skullindexxsux');
 
 --
 -- Indexes for dumped tables
