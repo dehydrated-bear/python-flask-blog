@@ -29,7 +29,7 @@ app.config.update(
 
 )
 app.secret_key = 'super-secret-key'
-app.config['UPLOAD_FOLDER']=params['upload_location']
+app.config['UPLOAD_FOLDER']=os.getcwd() +"/static/assets/img"
 mail=Mail(app)
 if local_server:
     app.config["SQLALCHEMY_DATABASE_URI"] = params['local_uri']
