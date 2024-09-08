@@ -28,7 +28,7 @@ app.config.update(
 
 
 )
-app.secret_key = 'super-secret-key'
+app.secret_key = 'a very secure secure secret key that i didn't accidently pulled on github before :)'
 app.config['UPLOAD_FOLDER']=os.getcwd() +"/static/assets/img"
 mail=Mail(app)
 if local_server:
